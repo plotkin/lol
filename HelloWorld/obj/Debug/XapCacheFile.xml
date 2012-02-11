@@ -1,0 +1,11 @@
+﻿<xapCache source="D:\WP7\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="13.10.2011 23:45:09">
+  <file source="D:\WP7\HelloWorld\HelloWorld\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="13.10.2011 21:38:47" />
+  <file source="D:\WP7\HelloWorld\HelloWorld\Background.png" archivePath="Background.png" lastWriteTime="13.10.2011 21:20:44" />
+  <file source="D:\WP7\HelloWorld\HelloWorld\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="13.10.2011 21:20:44" />
+  <file source="D:\WP7\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll" archivePath="HelloWorld.dll" lastWriteTime="13.10.2011 23:45:08" />
+  <file source="C:\Program Files\Microsoft SDKs\Advertising for Phone\Libraries\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="19.08.2011 11:13:14" />
+  <file source="C:\Program Files\Microsoft SDKs\Advertising for Phone\Libraries\Microsoft.Advertising.Mobile.UI.dll" archivePath="Microsoft.Advertising.Mobile.UI.dll" lastWriteTime="19.08.2011 11:13:14" />
+  <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="29.08.2011 22:49:08" />
+  <file source="D:\WP7\HelloWorld\HelloWorld\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="13.10.2011 21:20:44" />
+  <file source="D:\WP7\HelloWorld\HelloWorld\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="13.10.2011 21:38:47" />
+</xapCache>
